@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-web-page-using-css-and-bootstrap-mulCy9XftL)
-- Live Site URL: (https://itsmezainul.github.io/frontend-news-site/)
+- [Solution URL:] (https://www.frontendmentor.io/solutions/responsive-web-page-using-css-and-bootstrap-mulCy9XftL)
+- [Live Site URL:] (https://itsmezainul.github.io/frontend-news-site/)
 
 ## My process
 
